@@ -24,7 +24,7 @@ This is my solution to the Recipe Page challenge.
 ### Links
 
 - Solution URL: ([https://your-solution-url.com](https://github.com/DevonHughesCodes/Recipe-Page-Main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://devonhughescodes.github.io/Recipe-Page-Main/)
 
 ## My process
 
